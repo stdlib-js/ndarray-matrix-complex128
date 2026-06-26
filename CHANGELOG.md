@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7dc9808`](https://github.com/stdlib-js/stdlib/commit/7dc98086e9503556dc548aa2e4899f299c12999f) - **docs:** fix examples, notes, and return description [(#13151)](https://github.com/stdlib-js/stdlib/pull/13151) _(by Philipp Burckhardt)_
 -   [`56ffe96`](https://github.com/stdlib-js/stdlib/commit/56ffe96cd1f83bb3e66cc0c2b63eba05fd2d5ee9) - **docs:** document accepted arguments _(by Athan Reines)_
 -   [`6e71938`](https://github.com/stdlib-js/stdlib/commit/6e719388f340e1b01f4831cc2d64d1d662ad32df) - **feat:** add `ndarray/matrix/complex128` _(by Athan Reines)_
 
@@ -35,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
