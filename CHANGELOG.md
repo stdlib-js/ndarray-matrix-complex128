@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-01)
+## Unreleased (2026-07-06)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`bce3f55`](https://github.com/stdlib-js/stdlib/commit/bce3f55d4c882af77d2401d8622d818369421c39) - **docs:** update related packages sections [(#13313)](https://github.com/stdlib-js/stdlib/pull/13313) _(by stdlib-bot)_
 -   [`7dc9808`](https://github.com/stdlib-js/stdlib/commit/7dc98086e9503556dc548aa2e4899f299c12999f) - **docs:** fix examples, notes, and return description [(#13151)](https://github.com/stdlib-js/stdlib/pull/13151) _(by Philipp Burckhardt)_
 -   [`56ffe96`](https://github.com/stdlib-js/stdlib/commit/56ffe96cd1f83bb3e66cc0c2b63eba05fd2d5ee9) - **docs:** document accepted arguments _(by Athan Reines)_
 -   [`6e71938`](https://github.com/stdlib-js/stdlib/commit/6e719388f340e1b01f4831cc2d64d1d662ad32df) - **feat:** add `ndarray/matrix/complex128` _(by Athan Reines)_
